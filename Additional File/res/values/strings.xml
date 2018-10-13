@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Power Receiver</string>
+    <string name="connected">Power connected!</string>
+    <string name="disconnected">Power disconnected!</string>
+    <string name="send_custom_broadcast">Send Custom Broadcast</string>
+    <string name="custom_broadcast_toast">Custom Broadcast Received</string>
+</resources>
